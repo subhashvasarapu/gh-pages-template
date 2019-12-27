@@ -1,4 +1,4 @@
-# GitHub Pages Template
+# GitHub Pages Template - subhash
 
 GitHub will host (for free) a website for each of your repositories, a feature called [GitHub Pages](http://pages.github.com). To take advantage of this you just need website files on a branch named `gh-pages` in a repository. You can then find your site at: `yourusername.github.io/repositoryname`.
 
